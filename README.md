@@ -28,9 +28,9 @@ I’ve gained experience with a variety of technologies during my academic and p
 
 I’m always excited to meet new people in the tech community! Whether it’s to talk about development, share learning resources, or explore potential opportunities, feel free to reach out:
 
-- 📧 Email: [your.email@example.com](mailto:aliaver86@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/your-name](https://www.linkedin.com/in/alia-verma-b9209220a/)
-- 🌐 Portfolio/Website: [yourwebsite.com](https://alia1234567.github.io/my-portfolio/)
+- 📧 Email: [aliaver86@gmail.com](mailto:aliaver86@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/aliaverma](https://www.linkedin.com/in/alia-verma-b9209220a/)
+- 🌐 Portfolio/Website: [Click here](https://alia1234567.github.io/my-portfolio/)
 
 I’m looking forward to the next chapter of my software development journey and can’t wait to see where this field will take me!
 
