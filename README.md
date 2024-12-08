@@ -2,6 +2,7 @@
 
 I’m a **2024 Software Developer Graduate** excited to begin my professional journey in tech. Throughout my studies, I’ve gained a solid foundation in software development, problem-solving, and the art of creating scalable applications. I’m passionate about learning new technologies and improving my skills to solve real-world challenges.
 
+
 ## 🚀 About Me
 
 - 🎓 I recently graduated with a degree in **Computer Science** (or related field) and I'm eager to apply what I’ve learned in a professional setting.
