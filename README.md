@@ -3,7 +3,7 @@
 I’m a **2024 Software Developer Graduate** excited to begin my professional journey in tech. Throughout my studies, I’ve gained a solid foundation in software development, problem-solving, and the art of creating scalable applications. I’m passionate about learning new technologies and improving my skills to solve real-world challenges.
 
 ## My Projects links
-- (Dashboard App)[https://alia1234567.github.io/dashboard-app/#]
+- [Dashboard App](https://alia1234567.github.io/dashboard-app/#)
 
 ## 🚀 About Me
 
